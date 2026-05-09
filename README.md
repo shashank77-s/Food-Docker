@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍕 Food Delivery App — MERN Stack
 
 A full-stack food ordering app built with MongoDB, Express, React, and Node.js.
@@ -58,3 +59,6 @@ After signing up, open MongoDB Compass and run:
 ```js
 db.users.updateOne({ email: "your@email.com" }, { $set: { role: "admin" } })
 ```
+=======
+# Food-Docker
+>>>>>>> 61dd07966036562ec0d368fbae98f654854404bc
